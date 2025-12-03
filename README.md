@@ -1,6 +1,6 @@
 # Hi there, I'm Nathan 👋
 
-**Low-Level Reverse Engineer**  
+**Software Developer & ARMv8-A Reverse Engineer**  
 Exploring Android game internals & diving into cybersecurity.
 
 > *“Fake it 'till you make it.”*
